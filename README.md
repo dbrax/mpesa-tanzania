@@ -1,3 +1,5 @@
+<img src="https://github.com/dbrax/tigopesa-tanzania/blob/master/Tigopesa%20Laravel%20Library.jpeg">
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/mpesa-tanzania.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
 [![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
 [![Emmanuel Mnzava](https://img.shields.io/badge/Author-Emmanuel%20Mnzava-green)](mailto:epmnzava@gmail.com)
