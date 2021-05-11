@@ -1,3 +1,5 @@
+# THIS PACKAGE IS YET TO BE READY JUST A SKELETON
+
 <img src="https://github.com/dbrax/mpesa-tanzania/blob/main/mpesa-tanzania.png">
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/mpesa-tanzania.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
