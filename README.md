@@ -1,4 +1,4 @@
-<img src="https://github.com/dbrax/tigopesa-tanzania/blob/master/Tigopesa%20Laravel%20Library.jpeg">
+<img src="https://github.com/dbrax/mpesa-tanzania/blob/main/mpesa-tanzania.png">
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/mpesa-tanzania.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
 [![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
