@@ -1,7 +1,7 @@
 <img src="https://github.com/dbrax/mpesa-tanzania/blob/main/mpesa-tanzania.png">
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/epmnzava/mpesa-tanzania.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
-[![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/tigosecure.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
+[![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/mpesa-tanzania.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
 [![Emmanuel Mnzava](https://img.shields.io/badge/Author-Emmanuel%20Mnzava-green)](mailto:epmnzava@gmail.com)
 
 This package is created to help developers intergrate with Vodacom Mpesa Tanzania secure online api. More information of this can be found [here](https://epmnzava.medium.com/)
