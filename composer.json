@@ -1,0 +1,56 @@
+{
+    "name": "epmnzava/mpesa-tanzania",
+    "description": "PHP Laravel library  for mpesa - Tanzania",
+    "keywords": [
+        "epmnzava",
+        "mpesa-tanzania",
+        "vodacom",
+        "vodacom-mpesa"
+    ],
+    "homepage": "https://github.com/epmnzava/mpesa-tanzania",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Emmanuel Paul Mnzava",
+            "email": "epmnzava@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "illuminate/support": "^8.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0",
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Epmnzava\\MpesaTanzania\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Epmnzava\\MpesaTanzania\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Epmnzava\\MpesaTanzania\\MpesaTanzaniaServiceProvider"
+            ],
+            "aliases": {
+                "MpesaTanzania": "Epmnzava\\MpesaTanzania\\MpesaTanzaniaFacade"
+            }
+        }
+    }
+}
