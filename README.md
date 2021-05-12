@@ -6,7 +6,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/epmnzava/mpesa-tanzania.svg?style=flat-square)](https://packagist.org/packages/epmnzava/mpesa-tanzania)
 [![Emmanuel Mnzava](https://img.shields.io/badge/Author-Emmanuel%20Mnzava-green)](mailto:epmnzava@gmail.com)
 
-This package is created to help developers intergrate with Vodacom Mpesa Tanzania secure online api. More information of this can be found [here](https://epmnzava.medium.com/)
+This package is created to help developers intergrate with Vodacom Mpesa Tanzania open api. More information of this can be found [here](https://epmnzava.medium.com/)
 
 ## Installation
 
