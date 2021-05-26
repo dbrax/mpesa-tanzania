@@ -19,7 +19,7 @@ class MpesaTanzaniaServiceProvider extends ServiceProvider
 
         if ($this->app->runningInConsole()) {
             $this->publishes([
-                __DIR__.'/../config/config.php' => config_path('mpesa-tanzania.php'),
+                __DIR__ . '/../config/config.php' => config_path('mpesa-tanzania.php'),
             ], 'config');
 
             // Publishing the views.
@@ -48,7 +48,7 @@ class MpesaTanzaniaServiceProvider extends ServiceProvider
     public function register()
     {
         // Automatically apply the package configuration
-        $this->mergeConfigFrom(__DIR__.'/../config/config.php', 'mpesa-tanzania');
+        $this->mergeConfigFrom(__DIR__ . '/../config/config.php', 'mpesa-tanzania');
 
         // Register the main class to use with the facade
         $this->app->singleton('mpesa-tanzania', function () {
